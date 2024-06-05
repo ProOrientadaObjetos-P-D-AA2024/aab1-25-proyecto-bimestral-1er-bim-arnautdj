@@ -1,0 +1,13 @@
+Cliente: arnau
+Boletos:
+Pelicula: Spiderman, Horario: Lunes 18:00, Cantidad: 2
+Snacks:
+Total: $16.0
+-------------------------
+Cliente: arnaut
+Boletos:
+Pelicula: Avengers, Horario: Martes 20:00, Cantidad: 3
+Snacks:
+Nombre: Hot Dog, Precio: 3.0, Cantidad: 2
+Total: $30.0
+-------------------------
